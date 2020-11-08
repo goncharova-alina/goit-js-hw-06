@@ -1,4 +1,5 @@
-const calculateTotalBalance = array => array.reduce((total, {balance}) => total + balance, 0);
+const calculateTotalBalance = array => array.
+reduce((total, {balance}) => total + balance, 0);
 
 
 const users =  [
